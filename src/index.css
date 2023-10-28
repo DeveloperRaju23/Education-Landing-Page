@@ -10,7 +10,7 @@
 
 @layer components {
     .container{
-        @apply max-w-[1561px] mx-auto w-full px-[10px] md:px-[5px] lg:px-[0px]
+        @apply max-w-[1561px] mx-auto w-full px-[10px] md:px-[5px] lg:px-[10px] xl:px-[0px]
     }
    
 }
